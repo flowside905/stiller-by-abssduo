@@ -3,17 +3,17 @@
 
 ❗ Поддержка Chrome, Firefox, впн, криптокошельки, ваймворлд, стим, фтп, достает MAC-Adress, токен и сессия дискорд, и т.д.
 
-![image](https://raw.githubusercontent.com/Julie3Sigtuna/stiller-by-abssduo/main/imba.png?token=GHSAT0AAAAAABRBZTUW4UA642URC6LFMJDCYRKLMPA)
+![image](https://raw.githubusercontent.com/Julie3Sigtuna/stiller-by-abssduo/main/imba.png?raw=true)
 
 
 
 ## 1. Создать Discord Webhook в разделе интеграций в чате дискорда, куда нам будут приходить логи. 
 
-![image](https://raw.githubusercontent.com/Julie3Sigtuna/stiller-by-abssduo/main/imba.png?token=GHSAT0AAAAAABRBZTUXIVBVGRRR7J2A4QWMYRKLGXA)
+![image](https://github.com/Julie3Sigtuna/stiller-by-abssduo/blob/main/zxc.png?raw=true)
 
 ## 2. В сурсе Resources->Discord->DiscordWebhook.cs меняем на своё:
 
-![image](https://raw.githubusercontent.com/Julie3Sigtuna/stiller-by-abssduo/main/aye.png?token=GHSAT0AAAAAABRBZTUWBAULIOBWNYUTDAQ6YRKLMAA)
+![image](https://raw.githubusercontent.com/Julie3Sigtuna/stiller-by-abssduo/main/aye.png?raw=true)
 ВАЖНО ❗ Не создавайте бота с русскими символами, иначе логи приходить не будут.
 
 ## 3. Скомпилировать.
