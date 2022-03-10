@@ -3,7 +3,7 @@
 
 ❗ Поддержка Chrome, Firefox, впн, криптокошельки, ваймворлд, стим, фтп, достает MAC-Adress, токен и сессия дискорд, и т.д.
 
-![image](https://raw.githubusercontent.com/Julie3Sigtuna/stiller-by-abssduo/main/zxc.png?token=GHSAT0AAAAAABRBZTUWPJHMBB4ZIOPPYQ2CYRKLIKQ)
+![image](https://raw.githubusercontent.com/Julie3Sigtuna/stiller-by-abssduo/main/imba.png?token=GHSAT0AAAAAABRBZTUW4UA642URC6LFMJDCYRKLMPA)
 
 
 
