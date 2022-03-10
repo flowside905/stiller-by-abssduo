@@ -9,11 +9,11 @@
 
 ## 1. Создать Discord Webhook в разделе интеграций в чате дискорда, куда нам будут приходить логи. 
 
-![image](https://github.com/Julie3Sigtuna/stiller-by-abssduo/edit/main/imba.png)
+![Image alt](https://github.com/Julie3Sigtuna/stiller-by-abssduo/edit/main/imba.png)
 
 ## 2. В сурсе Resources->Discord->DiscordWebhook.cs меняем на своё:
 
-![image](https://github.com/Julie3Sigtuna/stiller-by-abssduo/edit/main/zxc.png)
+![Image alt](https://github.com/Julie3Sigtuna/stiller-by-abssduo/edit/main/zxc.png)
 ВАЖНО ❗ Не создавайте бота с русскими символами, иначе логи приходить не будут.
 
 ## 3. Скомпилировать.
