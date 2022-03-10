@@ -3,7 +3,7 @@
 
 ❗ Поддержка Chrome, Firefox, впн, криптокошельки, ваймворлд, стим, фтп, достает MAC-Adress, токен и сессия дискорд, и т.д.
 
-![image](https://raw.githubusercontent.com/Julie3Sigtuna/stiller-by-abssduo/main/imba.png?raw=true)
+![image](https://github.com/Julie3Sigtuna/stiller-by-abssduo/blob/main/imba.png?raw=true)
 
 
 
@@ -13,7 +13,7 @@
 
 ## 2. В сурсе Resources->Discord->DiscordWebhook.cs меняем на своё:
 
-![image](https://raw.githubusercontent.com/Julie3Sigtuna/stiller-by-abssduo/main/aye.png?raw=true)
+![image](https://github.com/Julie3Sigtuna/stiller-by-abssduo/blob/main/aye.png?raw=true)
 ВАЖНО ❗ Не создавайте бота с русскими символами, иначе логи приходить не будут.
 
 ## 3. Скомпилировать.
