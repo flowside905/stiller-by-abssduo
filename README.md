@@ -1,7 +1,7 @@
 ## Стиллер с отправкой логов в дискорд
 ❗ Написан исключительно в образовательных целях! Я не несу ответственности за использование данного проекта и любых его частей кода.
 
-❗ Поддержка Chrome, Firefox, впн, криптокошельки, ваймворлд, стим, фтп, достает MAC-Adress, токен и сессия дискорд, и т.д.
+❗ Поддержка Chrome, Firefox, Microsoft Edge, VPN, криптокошельки, VimeWorld, Steam, Telegram, FTP, достает MAC-Adress, токен и сессия Discord, и т.д.
 
 ![image](https://github.com/Julie3Sigtuna/stiller-by-abssduo/blob/main/zxc.png?raw=true)
 
