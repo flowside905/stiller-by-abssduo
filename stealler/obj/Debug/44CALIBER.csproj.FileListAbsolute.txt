@@ -1,0 +1,8 @@
+C:\Users\abssd\Desktop\стиллер\44CALIBER\44CALIBER\build\debug\Insidious.exe.config
+C:\Users\abssd\Desktop\стиллер\44CALIBER\44CALIBER\build\debug\Insidious.exe
+C:\Users\abssd\Desktop\стиллер\44CALIBER\44CALIBER\build\debug\Insidious.pdb
+C:\Users\abssd\Desktop\стиллер\44CALIBER\44CALIBER\obj\Debug\44CALIBER.csproj.AssemblyReference.cache
+C:\Users\abssd\Desktop\стиллер\44CALIBER\44CALIBER\obj\Debug\44CALIBER.csproj.SuggestedBindingRedirects.cache
+C:\Users\abssd\Desktop\стиллер\44CALIBER\44CALIBER\obj\Debug\44CALIBER.csproj.CoreCompileInputs.cache
+C:\Users\abssd\Desktop\стиллер\44CALIBER\44CALIBER\obj\Debug\Insidious.exe
+C:\Users\abssd\Desktop\стиллер\44CALIBER\44CALIBER\obj\Debug\Insidious.pdb

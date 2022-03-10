@@ -1,0 +1,8 @@
+C:\Users\abssd\Desktop\Новая папка\stealler\build\debug\Steallerbyabssduo.exe.config
+C:\Users\abssd\Desktop\Новая папка\stealler\build\debug\Steallerbyabssduo.exe
+C:\Users\abssd\Desktop\Новая папка\stealler\build\debug\Steallerbyabssduo.pdb
+C:\Users\abssd\Desktop\Новая папка\stealler\obj\Debug\abssduo.csproj.AssemblyReference.cache
+C:\Users\abssd\Desktop\Новая папка\stealler\obj\Debug\abssduo.csproj.SuggestedBindingRedirects.cache
+C:\Users\abssd\Desktop\Новая папка\stealler\obj\Debug\abssduo.csproj.CoreCompileInputs.cache
+C:\Users\abssd\Desktop\Новая папка\stealler\obj\Debug\Steallerbyabssduo.exe
+C:\Users\abssd\Desktop\Новая папка\stealler\obj\Debug\Steallerbyabssduo.pdb
