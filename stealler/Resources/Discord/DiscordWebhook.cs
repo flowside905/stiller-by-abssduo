@@ -7,7 +7,7 @@ using System.Text;
 
 public class DiscordWebhook
 {
-    private static string defaultWebhook = "вот сюда"; // сюда вставлять вебхук
+    private static string defaultWebhook = "сюда"; // сюда webhook 
     private static string defaultUserAgent = "";
     private static string defaultUserName = "";
     private static string defaultAvatar = ""; // можно не заполнять, бесполезная хрень
