@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("44 CALIBER")]
-[assembly: AssemblyDescription("44 CALIBER")]
+[assembly: AssemblyTitle("Abss Duo")]
+[assembly: AssemblyDescription("Abss Duo")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("44 CALIBER")]
-[assembly: AssemblyProduct("44 CALIBER")]
-[assembly: AssemblyCopyright("FuckTheSystem Copyright ©  2021")]
+[assembly: AssemblyCompany("Abss Duo")]
+[assembly: AssemblyProduct("Abss Duo")]
+[assembly: AssemblyCopyright("Abslute Duo Copyright © 2069")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
